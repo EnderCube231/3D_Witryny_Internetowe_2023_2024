@@ -1,0 +1,5 @@
+</znacznik> teskt</znacznik>				Błędna
+<atrybut = ''wartość''> znacznik </atrybut>		Błędna
+<tekst> tekst</tekst> 					Błędna
+<znacznik> tekst </znacznik>				Poprawna
+<znacznik atrybut = ''wartość''> tekst </znacznik>	Poprawna

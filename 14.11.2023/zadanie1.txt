@@ -1,0 +1,20 @@
+Przykład		Opis i tematyka									Adres URL
+
+Witryna Internetowa	Witryna internetowa to zbiór powiązanych ze sobą stron internetowych, 		widoczni.com
+			które tworzą spójną całość. Jest to miejsce w sieci, do którego 
+			użytkownicy mogą się przekierować za pomocą unikalnego adresu internetowego
+
+Portal internetowy	Portal internetowy to taki rodzaj serwisu informatycznego (informacyjnego), 	Interia.pl
+			poprzez który użytkownicy mają dostęp do nowych informacji z wielu dziedzin.
+
+Sklep internetowy	Sklep internetowy to rodzaj serwisu z katalogiem produktów lub usług, 		empik.com
+			który umożliwia prowadzenie sprzedaży oraz dokonywanie zakupów za
+			 pośrednictwem Internetu.
+
+Blog tekstowy		Rodzaj strony internetowej zawierającej odrębne, zazwyczaj uporządkowane 	facebook.com
+			chronologicznie wpisy. Blogi umożliwiają zazwyczaj archiwizację oraz 
+			kategoryzację i tagowanie wpisów, a także komentowanie notatek 
+			przez czytelników danego dziennika sieciowego.
+	
+Wideoblog		Rodzaj bloga internetowego, który zamiast postów tekstowych posługuje 		ChemVlog.pl
+			się materiałem filmowym.
