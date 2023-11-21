@@ -1,0 +1,59 @@
+Zadanie 1
+
+Strict DTD:
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <title>Strict DTD Example</title>
+</head>
+<body>
+  <!-- Your content here -->
+</body>
+</html>
+
+
+
+Transitional DTD:
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Transitional DTD Example</title>
+</head>
+<body>
+  <!-- Your content here -->
+</body>
+</html>
+
+
+
+Frameset DTD:
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<html>
+<head>
+  <title>Frameset DTD Example</title>
+</head>
+<frameset>
+  <!-- Your frame content here -->
+</frameset>
+</html>
+
+
+
+Ró¿nice miêdzy nimi:
+Strict DTD:
+
+Najbardziej restrykcyjny.
+Nie pozwala na u¿ywanie elementów i atrybutów przeznaczonych dla prezentacji (takich jak <font>, <center>).
+Zaleca u¿ywanie CSS do stylowania.
+Sprzyja czystemu rozdzieleniu struktury i stylu.
+Transitional DTD:
+
+Pozwala na u¿ywanie elementów i atrybutów zwi¹zanych z prezentacj¹ (np. <font>, <center>).
+Zosta³ wprowadzony jako etap przejœciowy, zachowuj¹cy kompatybilnoœæ wsteczn¹ z starszymi stronami.
+Frameset DTD:
+
+Przeznaczony dla dokumentów u¿ywaj¹cych ramek (frames).
+Umo¿liwia definiowanie uk³adu strony z wykorzystaniem ramek za pomoc¹ elementu <frameset>.

@@ -1,0 +1,14 @@
+Zadanie 2
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>moja strona</title>
+</head>
+
+<body>
+    <p>To jest moja strona internetowa</p>
+</body>
+
+</html>

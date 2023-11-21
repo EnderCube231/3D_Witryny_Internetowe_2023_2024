@@ -1,0 +1,7 @@
+Zadanie 3
+
+1) Dokument zosta³ napisany w jêzyku XML, który jest u¿ywany do tworzenia dokumentów strukturalnych.
+
+2) Tytu³ strony zosta³ zadeklarowany jako "Przyk³ad do zadania".
+
+3) Zadeklarowano kodowanie znaków jako UTF-8.
