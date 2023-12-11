@@ -1,0 +1,7 @@
+Znacznik, Atrybut, Wartość:
+
+<body> , bgcolor , red
+<a> , href , http://www.sip.pl
+<font> , face , (wartość określająca nazwę rodzaju czcionki)
+<p> , align , right
+<meta> , name , (wartość określająca konkretną nazwę metadanej)

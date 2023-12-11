@@ -1,0 +1,21 @@
+<!DOCTYPE html>: Określa typ dokumentu jako HTML5.
+
+<html lang="pl">: Rozpoczyna sekcję HTML, ustawiając język na polski.
+
+<head>: Zawiera metadane dokumentu, takie jak znaczniki meta i title.
+
+<meta charset="UTF-8">: Określa kodowanie znaków jako UTF-8.
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Ustawia zachowanie widoku na urządzeniach mobilnych.
+
+<title>zadania</title>: Określa tytuł dokumentu.
+
+<body>: Zawiera zawartość widoczną dla użytkownika.
+
+<b>: Pogrubia zawartość wewnątrz tego znacznika.
+
+<LI>: Reprezentuje element listy.
+
+<ul type="circle">: Tworzy nieuporządkowaną listę z punktami w formie 
+
+<ul type="square">: Tworzy nieuporządkowaną listę z punktami w formie kwadratów.
