@@ -1,0 +1,43 @@
+nav {
+    background-color: #cc9666;
+    font-size: 30px;
+    position: relative;
+    width: 80%;
+    text-align: center;
+    padding: 20px;
+    left: 10%;
+}
+
+aside {
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    left: 10%;
+    width: 5%;
+    height: 40px;
+    bottom: 320px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #32CD32;
+}
+
+main {
+    position: relative;
+    font-size: 60px;
+    width: 72%;
+    top: 20px;
+    left: 20%;
+    height: 340px;
+    background-color: #ffff33;
+    text-align: center;
+}
+
+footer {
+    position: relative;
+    font-size: 30px;
+    left: 10%;
+    text-align: center;
+    width: 80%;
+    padding: 20px;
+    background-color: #990033;
+}
